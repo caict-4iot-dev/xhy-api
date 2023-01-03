@@ -8,11 +8,13 @@
 
 
 API地址：
-测试网络环境：`https://test-stamp.bitfactory.cn/api`
-生产环境：`https://stamp.bitfactory.cn/api`
 
-请求路径=API地址+接口名称，比如hash存证接口的名称是/evidence/hash，则请求路径为
-`https://bitfactory.cn/api/evidence/hash`
+测试网络环境：https://test-stamp.bitfactory.cn/api
+
+生产环境：https://stamp.bitfactory.cn/api
+
+请求路径=API地址+接口名称，比如hash存证接口的名称是/evidence/hash，则请求路径为:
+``https://test-stamp.bitfactory.cn/api/evidence/hash``
 
 
 方法
