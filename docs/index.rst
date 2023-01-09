@@ -12,4 +12,5 @@
 	API简介 <introduction>
     请求说明 <request>
     API接口 <api>
+    签名示例 <flow>
 	Java示例 <java>
